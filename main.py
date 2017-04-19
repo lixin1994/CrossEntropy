@@ -23,3 +23,4 @@ newShannon.calculateProb()
 print '-------------------------------------------------------------------------'
 print 'Result:'
 newShannon.analyseCrossEntropy(testList)
+newShannon.analyseCrossEntropy(testList)
